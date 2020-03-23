@@ -1,6 +1,8 @@
 # Fractal Mandala
-Software for chord formation. 
+Software for chord formation.
+
 Made with Java and Java Swing.
+
 UI exercise.
 
 Main class: Koskettimisto.java
