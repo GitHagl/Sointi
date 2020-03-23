@@ -1,4 +1,4 @@
-#Fractal Mandala
+# Fractal Mandala
 Software for chord formation. 
 Made with Java and Java Swing.
 UI exercise.
